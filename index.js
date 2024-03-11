@@ -19,6 +19,9 @@ app.use("/api/users", require('./routes/usersRoute'))
 app.use("/api/courses", require('./routes/coursesRoute'))
 app.use("/api/enginners", require('./routes/engRoute'))
 app.use("/api/orders", require('./routes/ordersRoute'))
+app.get("*",(req, res)=>{
+    res.json({message: "Api Warking"})
+})
 
 
 
