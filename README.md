@@ -1,8 +1,9 @@
-
 # 📢 Coder Academy
 ![Coder](https://coder-academy.onrender.com/assets/logo-B9AIJMz4.png) 
-<br/>
-<br/>
+<p>A website displaying Coder Academy’s services and courses</p>
+
+# Image From App
+<img src="https://l.top4top.io/p_31545maat1.png" width="100%" />
 
 # 🛠️ Tech stack 
 
